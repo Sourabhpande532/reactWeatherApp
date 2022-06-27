@@ -165,7 +165,7 @@
     }
   }
    
-  @media (max-width: 680px){
+  @media (max-width: 100px){
     .box{
       width: 60vw;
       height: 50vh;
